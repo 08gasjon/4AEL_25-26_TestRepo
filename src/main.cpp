@@ -17,7 +17,6 @@ void setup()
 
 void loop()
 {
-    // Simon was here
 }
 
 // I was here
